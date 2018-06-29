@@ -18,5 +18,3 @@ ratatouille= media.Movie("Ratatouille","http://www.pixartalk.com/wp-content/uplo
 
 # create list of movies
 movies=[toy_story, baby_boss, frozen, tangled,inside_Out,ratatouille]
-
-
