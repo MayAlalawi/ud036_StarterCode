@@ -16,7 +16,7 @@ baby_boss = media.Movie("Baby_Boss",
 # Frozen
 frozen = media.Movie("Frozen",
                      "http://t0.gstatic.com/images?q=tbn:ANd9GcTIaSaZM-" +
-                     "kGnMKWNNMW9-_v008JrEh58Ab3DAV1geUNJvXeyXS",
+                     "kGnMKWNNMW9-_yv008JrEh58Ab3DAV1geUNJvXeyXS",
                      "https://www.youtube.com/watch?v=TbQm5doF_Uc")
 # Tangled
 tangled = media.Movie("Tangled",
