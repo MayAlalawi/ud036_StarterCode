@@ -8,7 +8,7 @@ This project generate a website that displays my favorite movies
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes:
-- create a [GitHub] (https://github.com/)account for you if you dont have one.
+- create a [GitHub](https://github.com/) account for you if you dont have one.
 - To get started, fork this  [repository](https://github.com/MayAlalawi/ud036_StarterCode) to create your own copy in GitHub. Then **clone** your _**ud036_Starter**_ Code repository to work on this project locally on your computer.
 - The media.py containe the Movie class that store my favorite movies information.
 - The entertainment_center.py contain the list of my favorite movies.
