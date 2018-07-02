@@ -22,7 +22,7 @@ $ git clone https://github.com/MayAlalawi/ud036_StarterCode.git
 ```
 
 - Open  **fresh_tomatoes.html** file to see the list of my favorite movies' posters and youtube trailers.
-   ```
+```
  $ start fresh_tomatoes.py
 ```
 - Press any Image to view the movie trailer.
@@ -31,19 +31,16 @@ $ git clone https://github.com/MayAlalawi/ud036_StarterCode.git
 > To get started...
 - Step 1:
 	- Option 1:
-        -  :fork_and_knife: Fork this [repository](https://github.com/MayAlalawi/ud036_StarterCode)!
+        -  Fork this [repository](https://github.com/MayAlalawi/ud036_StarterCode)!
 	- Option 2
 		-  Clone  [repository](https://github.com/MayAlalawi/ud036_StarterCode.git) to your local machine using *https://github.com/MayAlalawi/ud036_StarterCode.git*
 - Step 2
 	-  Do the Changes that you want.
 - Step 3
-	- : arrows_clockwise : Create a new pull request using https://github.com/joanaz/HireDot2/compare/.
+	- Create a new pull request using https://github.com/joanaz/HireDot2/compare/.
 
 
-------------
-
-
->Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 ## License
